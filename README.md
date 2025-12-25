@@ -24,7 +24,7 @@ This project demonstrates a simple natural language processing (NLP) workflow:
 ## Repository Structure
 
 PredictingNextWord
-
+```
 ├── app.py  
 ├── model.h5
 ├── tokenizer.pkl
@@ -32,7 +32,7 @@ PredictingNextWord
 ├── hamlet.txt
 ├── requirements.txt
 └── README.md
-
+```
 Requirements
 
 ``` bash
