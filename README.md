@@ -7,7 +7,7 @@ The model used in this project was built and trained from scratch on the Shakesp
 
 This project demonstrates a simple natural language processing (NLP) workflow:
 
-1. Load  model (`model.h5`) and tokenizer (`tokenizer.pkl`)
+1. Train and load  model (`model.h5`) and tokenizer (`tokenizer.pkl`)
 2. Preprocess user input with padding and tokenization
 3. Predict the next word using the model
 4. Display the prediction in a Streamlit web app
