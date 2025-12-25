@@ -31,11 +31,17 @@ It helps you understand how neural language models can learn and predict text se
 
 PredictingNextWord/
 ├── app.py
+
 ├── model.h5
+
 ├── tokenizer.pkl
+
 ├── experiments.ipynb
+
 ├── hamlet.txt
+
 ├── requirements.txt
+
 └── README.md
 
 yaml
