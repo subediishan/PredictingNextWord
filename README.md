@@ -23,8 +23,9 @@ This project demonstrates a simple natural language processing (NLP) workflow:
 
 ## Repository Structure
 
-PredictingNextWord/
-├── app.py
+PredictingNextWord
+
+├── app.py  
 ├── model.h5
 ├── tokenizer.pkl
 ├── experiments.ipynb
